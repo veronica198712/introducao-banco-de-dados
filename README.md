@@ -6,7 +6,7 @@ Projeto criado para praticar conceitos básicos de banco de dados usando Python 
 - Criação de banco de dados
 - Criação de tabelas
 - Inserção de dados
-- consulta de dados
+- Consulta de dados
 
 ## Tecnologias
 - Python
@@ -14,4 +14,6 @@ Projeto criado para praticar conceitos básicos de banco de dados usando Python 
 
 ## Objetivo
 Aprender banco de dados como base para análise de dados e Power BI.
+
+
 
