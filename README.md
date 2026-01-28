@@ -1,6 +1,6 @@
-# Introdução a Banco de Dados com Python
+# Introdução ao Banco de Dados com Python
 
-projeto criado para praticar conceitos básicos de banco de dados usando python e sqlite.
+Projeto criado para praticar conceitos básicos de banco de dados usando Python e SQLite.
 
 ## O que foi praticado
 - Criação de banco de dados
@@ -13,4 +13,4 @@ projeto criado para praticar conceitos básicos de banco de dados usando python 
 - SQLite
 
 ## Objetivo
-Aprender banco de dados com base para análise de dados e Power BI.
+Aprender banco de dados como base para análise de dados e Power BI.
